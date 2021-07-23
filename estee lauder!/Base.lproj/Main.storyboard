@@ -710,12 +710,6 @@
                                 <rect key="frame" x="107" y="480" width="198" height="183"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
-                            <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="1Y8-Dn-Tiy">
-                                <rect key="frame" x="13" y="218" width="79" height="409"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <viewLayoutGuide key="contentLayoutGuide" id="9fm-A8-j8a"/>
-                                <viewLayoutGuide key="frameLayoutGuide" id="apM-df-z3M"/>
-                            </scrollView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Double Wear Eye Pencil" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="cvu-P7-AOi">
                                 <rect key="frame" x="125" y="196" width="180" height="21"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
@@ -794,9 +788,9 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="efW-p2-HAF"/>
+        <segue reference="KZQ-ge-7MH"/>
         <segue reference="GTn-Yk-nSf"/>
-        <segue reference="wjp-li-k11"/>
+        <segue reference="gPi-vO-wD6"/>
     </inferredMetricsTieBreakers>
     <resources>
         <image name="FL21_DIGITAL_DW_Lifestyle_SIP_3N1_Lip_Balm_1412_c_NOAM_1080x1080" width="1080" height="1080"/>
