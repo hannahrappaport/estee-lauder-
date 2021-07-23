@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "FL21_DIGITAL_DW_Lifestyle_SIP_3N1_Lip_Balm_1412_c_NOAM_1080x1080.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
